@@ -7,7 +7,7 @@ Created on Oct 18, 2018
 travel_month = None
 print("travel_month is: ",travel_month)
 travel_month = "january"
-print("travel_month is assigned and  is: ",travel_month)
+print("travel_month is assigned and  is: ",travel_month.title())
 number_of_weeks = None
 print("number_of_weeks is: ",number_of_weeks)
 number_of_weeks = 3
