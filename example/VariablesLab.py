@@ -14,3 +14,4 @@ number_of_weeks = 3
 print("number_of_weeks is assigned and it is: ",number_of_weeks)
 number_of_weeks = 5
 print("number_of_weeks is updated and it is: ",number_of_weeks)
+print("thanks for learning about variables lab.")
