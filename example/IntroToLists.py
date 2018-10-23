@@ -9,3 +9,14 @@ countries_of_top_cities = ['Croatia', 'USA', 'Argentina', 'Mexico', 'USA', 'Moro
 print(top_travel_cities)
 
 print(top_travel_cities[0])
+
+cities = ['New York',"Chicago","Washington DC", "Newark","Trenton","Boston"]
+print(cities)
+print(cities[0])
+print(cities[1])
+print(cities[1:4])
+print(cities[1:5])
+print(cities[1:])
+print(cities[::2])
+print(cities[::-2])
+print(cities[::-4])
