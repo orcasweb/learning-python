@@ -14,7 +14,7 @@ f()
 def parrot(voltage, state='a stiff', action='voom', mytype='Norwegian Blue'):
     print("-- This parrot wouldn't", action, end=' ')
     print("if you put", voltage, "volts through it.")
-    print("-- Lovely plumage, the", type)
+    print("-- Lovely plumage, the", mytype)
     print("-- It's", state, "!")
 
 parrot(mytype="me",action= "play",state="sleep",voltage=10)
