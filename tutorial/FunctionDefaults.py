@@ -11,10 +11,10 @@ def f(arg=i):
 i = 6
 f()
 
-def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):
+def parrot(voltage, state='a stiff', action='voom', mytype='Norwegian Blue'):
     print("-- This parrot wouldn't", action, end=' ')
     print("if you put", voltage, "volts through it.")
     print("-- Lovely plumage, the", type)
     print("-- It's", state, "!")
 
-parrot(type="me",action= "play",state="sleep",voltage=10)
+parrot(mytype="me",action= "play",state="sleep",voltage=10)
